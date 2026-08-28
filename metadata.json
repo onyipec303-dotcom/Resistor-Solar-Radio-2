@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Function Transistor Radio Sales Page",
+  "description": "Sales landing page and lead order management system for the Multi-Function Solar Transistor Radio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
